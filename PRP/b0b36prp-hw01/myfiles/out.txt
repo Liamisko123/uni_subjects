@@ -1,0 +1,8 @@
+Desitkova soustava: 150 0
+Sestnactkova soustava: 96 0
+Soucet: 150 + 0 = 150
+Rozdil: 150 - 0 = 150
+Soucin: 150 * 0 = 0
+Podil: 150 / 0 = NaN
+Prumer: 75.0
+Exit status: 101
