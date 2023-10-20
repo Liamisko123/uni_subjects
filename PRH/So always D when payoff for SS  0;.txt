@@ -1,0 +1,1 @@
+So always D when payoff for SS < 0;
